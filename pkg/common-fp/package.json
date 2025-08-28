@@ -18,7 +18,8 @@
     "test-one": "mocha --ui tdd -r test/init.mjs"
   },
   "files": [
-    "dist"
+    "dist",
+    "misc/coverage-badge.svg"
   ],
   "main": "./dist/index.cjs",
   "type": "module",

@@ -1,7 +1,9 @@
-# Welcome to Common FP
+# ![logo](./misc/logo_dark.svg#gh-dark-mode-only) ![logo](./misc/logo_light.svg#gh-light-mode-only) Welcome to Common FP
 
 Before you start, I suggest visiting [common-fp.org](https://common-fp.org)
 instead. It has all the below information and looks better :)
+
+![Coverage](./misc/coverage-badge.svg)
 
 ## Contents
 
