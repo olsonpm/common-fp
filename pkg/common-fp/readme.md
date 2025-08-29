@@ -1,6 +1,10 @@
-<h1>
-  ![logo](./misc/logo_dark.svg#gh-dark-mode-only) ![logo](./misc/logo_light.svg#gh-light-mode-only) Welcome to Common FP
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./misc/header_dark.svg">
+  <img height="60" alt="Welcome To Common FP" src="./misc/header_light.svg">
+</picture>
+
+<br>
+<br>
 
 Before you start, I suggest visiting [common-fp.org](https://common-fp.org)
 instead. It has all the below information and looks better :)
